@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Frederick Sion
 - 👀 I’m interested in: Hair Morphology, Video Games, Drawing, Photoshop, The C Programming Language 
-- 🌱 I’m currently learning: Statistics, C Programming Language, Cloud Applications
+- 🌱 I’m currently learning: Statistics, C Programming Language, Cloud Computing, AWS
 - 💞️ I’m looking to collaborate on: Anything :)
 - 📫 How to reach me: fns5037@psu.edu
 
